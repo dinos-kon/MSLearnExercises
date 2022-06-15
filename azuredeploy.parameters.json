@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "storageAccountName": {
-            "value": "az204StorageAcctARM2583" 
+            "value": "az204storageacct2583" 
         }
     }
 }
